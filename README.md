@@ -1,2 +1,4 @@
 # hello-world
-respository for the tutorial
+repository for the tutorial
+correction of the descrition
+because of typo
